@@ -11,10 +11,10 @@
 
 
 // WiFi credentials
-#define WIFI_SSID "SETUP-1520"
-#define WIFI_PASSWORD "crumb6382depend"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 
-#define SAS_TOKEN "SharedAccessSignature sr=cs147final34.azure-devices.net%2Fdevices%2Fcs147esp32&sig=CLgVwcJEgaEOLA%2B4ce55U7xCGdclSOnQZUhFEV67RY8%3D&se=1756960121"
+#define SAS_TOKEN ""
 
 const char* root_ca = \
   "-----BEGIN CERTIFICATE-----\n" \
